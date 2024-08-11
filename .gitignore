@@ -12,3 +12,6 @@ _deps
 # ignore cmake output
 build/
 out/
+#ignore visual studio folders
+.vs/
+

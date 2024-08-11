@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.29.2)
+cmake_minimum_required(VERSION 3.28.0)
 
 project(OpenGLSandbox VERSION 1.0.0)
 
